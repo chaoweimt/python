@@ -1,2 +1,5 @@
-Python is an interesting programming language.
- It is so powerful that I have to have a strong interest in it.
+learm python one day and learm it well
+python for beginners with hands-on project
+th only book you need to start coding in python 
+immediately 
+http://www.learncodingfast.com/python
